@@ -7,7 +7,7 @@
 #' @examples
 #'   summary(testbreedr())
 testbreedr <- function() {
-  dat <- data.frame(x = 1, y = 1)
+  dat <- data.frame(x = 1:10, y = 1:10)
   res <- remlf90(y ~ x, data = dat)
   return(res)
 }
