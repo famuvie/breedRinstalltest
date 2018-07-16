@@ -1,0 +1,10 @@
+Package: breedRinstalltest
+Type: Package
+Title: Test the installation of breedR in a windows machine
+Version: 0.0-1
+Author: Facundo Muñoz
+Maintainer: Facundo Muñoz <facundo.munoz@cirad.fr>
+Description: Uses AppVeyor as a means to install breedR and debug its installation.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
