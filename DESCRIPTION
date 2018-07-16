@@ -8,3 +8,5 @@ Description: Uses AppVeyor as a means to install breedR and debug its installati
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+imports: breedR
+Additional_repositories: http://famuvie.github.io/breedR/
