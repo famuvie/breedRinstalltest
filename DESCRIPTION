@@ -10,3 +10,4 @@ Encoding: UTF-8
 LazyData: true
 imports: breedR
 Additional_repositories: http://famuvie.github.io/breedR/
+RoxygenNote: 6.0.1
